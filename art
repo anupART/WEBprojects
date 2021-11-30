@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- <link href="https://fonts.googleapis.com/css2?family=Estonia&display=swap" rel="stylesheet"> -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+<script src="https://kit.fontawesome.com/6682e31854.js" crossorigin="anonymous"></script>
+
+<link rel="stylesheet" href="styleresume.css">
+    <title>RESUME</title>
+</head>
+<body>
+    <div class="a">
+        <div class="b">
+            <div class="left">
+
+                <div class="name">
+                    <h1 class="first ">ANUP</h1>
+                    <h1 class="last ">TARONE</h1>
+
+                </div>
+            </div>
+          
+            <div class="right">
+                <div class="email"> <p>anuptarone4@gmail.com</p>
+                    <i class="fas fa-at"></i>
+
+                </div>
+                <div class="mobile">
+                    <p>91-9000006787</p>
+                    <i class="fas fa-phone"></i>
+
+                </div>
+               <div class="linkdin"><p>
+                https://www.linkedin.com/in/anup-tarone-77009a1s4
+               </p>
+               <i class="fab fa-linkedin"></i>
+                  
+               </div>
+            </div>
+        </div>
+   
+    <br>
+<hr>
+
+<div class=" objective">
+    <div class="obj head color">
+        <i class="fas fa-bullseye"></i>
+        <h2>CAREER OBJECTIVE</h2>
+    </div>
+    <p>I have aim for becoming  an a professionl web development  i   can make  good use of my skill 
+        and i  like to learn  new skills it will make a great contribution for an organization.</p>
+</div>
+ <div class="education">
+     <div class="edu color">
+     <i class="fas fa-university"></i>
+     <h2>EDUCATION</h2>
+ </div>
+ <table>
+     <tr>
+         <th>Board  </th>
+         <th>State </th>
+         <th>Institution  </th>
+         <th>Year of Passed  </th>
+         <th>Percentage  </th>
+     </tr>
+     <tr>
+         <td>10th State</td>
+         <td>Maharashtra</td>
+         <td>Somalwar Nikalas School and   Junior College</td>
+         <td>2018</td>
+         <td>91.23%</td>
+     </tr>
+     <tr>
+        <td>12th State</td>
+        <td>Maharashtra</td>
+        <td>Dr. Babasaheb Ambedkar College</td>
+        <td>2020</td>
+        <td>79.80%</td>
+    </tr>
+
+<tr>
+        <td>B.tech.</td>
+        <td>Maharashtra</td>
+        <td>Yeshwantrao Chavan College Of Engineering</td>
+        <td>-</td>
+        <td>-</td>
+    </tr>
+ </table>
+</div>
+
+ <div class="skill">
+     <div class="sk color">
+     <br>
+     <i class="fas fa-laptop"></i>
+     <h2>SKILLS</h2>
+ </div>
+ <ul>
+     <li>BASIC PROGRAMMING</li>
+     <li>HTML</li>
+     <LI>CSS</LI>
+ </ul>
+ </div>
+
+<div class="work"> 
+     <div class="w color">
+        <br>
+        <i class="fas fa-briefcase"></i>
+        <h2>WORKING EXPERIENCE</h2>
+    </div>
+    <p>FRESHER</p>
+    <p>WORKING AS INTERN IN GEGO SCOUT</p>
+</div>
+<div class="declaration">
+    <div class="dec color">
+        <i class="fas fa-check-circle"></i>
+        <h2>DECLARATION</h2>
+    </div>
+    <p>I hereby declare that all the information mentioned above is free from error to the best of my knowledge and I bear responsibility for any deviation from them at any later stage.</p>
+
+   </div>
+   </div>
+
+</div>
+
+
+</body>
+</html>
